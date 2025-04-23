@@ -10,4 +10,4 @@ A simple React application demonstrating interactive buttons with dynamic stylin
 - Responsive design with hover effects and smooth transitions.
 - CSS styling with Tailwind CSS setup (minimal usage in current implementation).
 
-https://github.com/subhansiddique005/Three-Buttons-/blob/1de824b8e7333cfaeb1e1d68f905b075e342aa44/Recording%20Three%20Buttons.mp4
+https://github.com/user-attachments/assets/4f12cf5f-3907-4c97-a415-410da9749b2c
